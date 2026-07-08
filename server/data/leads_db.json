@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "json_1783494579381_iod6qkloj",
+    "name": "New Plan Client",
+    "dob": "1996-08-15T00:00:00.000Z",
+    "phone": "9876543210",
+    "age": 30,
+    "product": "Param Raksha Life",
+    "sumAssured": 6000000,
+    "policyTerm": 40,
+    "calculatedPremium": 51418,
+    "fundValue": 26020400,
+    "createdAt": "2026-07-08T07:09:39.381Z"
+  },
+  {
+    "_id": "json_1783493477301_eg3a904a0",
+    "name": "anil",
+    "dob": "2005-08-24T00:00:00.000Z",
+    "phone": "9014232690",
+    "age": 20,
+    "sumAssured": 6000000,
+    "policyTerm": 40,
+    "calculatedPremium": 36633,
+    "fundValue": 13338000,
+    "createdAt": "2026-07-08T06:51:17.301Z"
+  },
+  {
+    "_id": "json_1783492908021_grkrp0zrx",
+    "name": "Srinu Client",
+    "dob": "1996-08-15T00:00:00.000Z",
+    "phone": "9876543210",
+    "age": 30,
+    "sumAssured": 6000000,
+    "policyTerm": 40,
+    "calculatedPremium": 51418,
+    "fundValue": 26020400,
+    "createdAt": "2026-07-08T06:41:48.021Z"
+  }
+]
